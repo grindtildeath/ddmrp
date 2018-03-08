@@ -6,9 +6,9 @@
 {
     "name": "DDMRP History",
     "summary": "Allow to store historical data of DDMRP buffers.",
-    "version": "10.0.1.0.0",
+    "version": "11.0.1.0.0",
     "author": "Eficent, Odoo Community Association (OCA)",
-    "website": "http://www.eficent.com",
+    "website": "https://github.com/OCA/ddmrp",
     "category": "Warehouse Management",
     "depends": ["ddmrp"],
     "data": [
